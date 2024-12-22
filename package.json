@@ -1,0 +1,30 @@
+{
+  "name": "prashant-currency-converter",
+  "version": "1.0.0",
+  "description": "this is for learning purpouse, don't use in production",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantghadiali/currency-converter-prashant.git"
+  },
+  "keywords": [
+    "prashant",
+    "currency",
+    "converter"
+  ],
+  "author": "Prashant Ghadiali",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/prashantghadiali/currency-converter-prashant/issues"
+  },
+  "homepage": "https://github.com/prashantghadiali/currency-converter-prashant#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "path": "^0.12.7"
+  }
+}
